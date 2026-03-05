@@ -1,14 +1,28 @@
+# Real Estate Listing Website
 
-<h1> Real_Estate-Website</h1>
+A responsive real estate property showcase website with modern UI components.
 
-I've independently designed and coded a responsive real estate website, and it's ready to explore!
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-🔸 Project Name: Real Estate Website
+## 🔐 Features
+- Property listing layout
+- Responsive card design
+- Navigation menu
+- Modern real estate UI
 
-🔸 Technologies Used: HTML, CSS, JavaScript, Bootstrap
+## 🧠 Architecture & Focus
+- Bootstrap grid system
+- Responsive layout
+- Clean property card design
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...
-
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen_real_estate-website.gif)
+
+## 💡 Future Improvements
+- Property search
+- Filtering system
+- Google Maps integration
